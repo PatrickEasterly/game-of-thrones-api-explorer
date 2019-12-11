@@ -19,7 +19,7 @@ In your HTML, create containers for:
 
 Note the term "masterlist" is being used to differentiate it from the term "unordered list", which is an HTML element.
 
-# Level 1: Category menu
+## Level 1: Category menu
 
 If you send a request to `https://anapioficeandfire.com/api/`, it will return the following object: 
 
